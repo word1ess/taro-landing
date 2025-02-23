@@ -1484,6 +1484,8 @@ body {
   .read__info .btn {
     max-width: 100%;
     box-shadow: 0 0 60px 0 rgba(184, 59, 200, 0.5);
+    font-size: 20px;
+    overflow: hidden;
   }
   .faq h2 {
     font-size: 40px;
